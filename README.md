@@ -37,3 +37,5 @@
 # 10 HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
 # Do không có trường giới tính, nên sẽ lọc bằng dữ liệu có thể xác định được ( các tên phổ biến dùng cho con gái)
 # Đây chỉ là biện pháp tạm thời vì có một số tên cũng được dùng cho con trai và một số bạn nữ khác không có tên trong các tên truy vấn kia.
+![image](https://github.com/user-attachments/assets/ea484be9-0f04-4d08-a7ce-6c20c2f200e2)
+# Tìm ra các bạn nữ ở lớp KMT thành công!
